@@ -1,17 +1,21 @@
-* {
-  margin:0px;
-  padding:0px;
+#pr {
+  
+  float: center;
+  height: 280px;
+  width: 230px;
+  
 }
-
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+#pr2 {
+  
+  float: center;
+  height: 280px;
+  width: 230px;
+  
 }
-
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+#pr3 {
+  
+  float: center;
+  height: 280px;
+  width: 230px;
+  
 }
